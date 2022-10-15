@@ -5,6 +5,7 @@ A Node.js projecto to manage stocks
 ## Overview  
 This api was written using the Express.js framework [Express](https://expressjs.com/).
 Using the ORM [Sequelize](https://sequelize.org/) with migrations.
+DataBase Mysql.
 
 ## Prerequisites
 
